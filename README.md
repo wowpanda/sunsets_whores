@@ -25,6 +25,11 @@ I'm currently working on the problem and looking for ways to solve it
 - ask her a blowjob
 - ask her sex
 
+## Feature to implement: ##
+
+- Fix the reload resource bug
+- Language configuration (EN, FR etc ..)
+
 ## Configuration: ##
 
 - spawnPoint & interract zone can be set in configuration (Config.Hookers => whores & Config.Locations => interaction zone)
